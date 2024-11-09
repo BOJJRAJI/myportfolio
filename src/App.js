@@ -15,8 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         HI LEKYA 
-         HOW ARE YOU ?
+        HI DURGA ARE YOU FINE
         </a>
       </header>
     </div>
